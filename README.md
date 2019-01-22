@@ -1,2 +1,1 @@
-# volimpro.github.io
-Volimpro Research
+# [Volimpro Research](https://volimpro.github.io/)
